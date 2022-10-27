@@ -338,3 +338,12 @@ C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CS
 C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\appsettings.json
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Serilog.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Sources\EmailSender\EmailSender\bin\Debug\net6.0\Serilog.Sinks.Console.dll
